@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW -->
+
+<svg
+   xml:space="preserve"
+   width="25mm"
+   height="25mm"
+   style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+   viewBox="0 0 1.19309 1.19309"
+   version="1.1"
+   id="svg43"
+   sodipodi:docname="mine_red.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   id="namedview45"
+   pagecolor="#505050"
+   bordercolor="#eeeeee"
+   borderopacity="1"
+   inkscape:pageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="0"
+   inkscape:document-units="mm"
+   showgrid="false"
+   inkscape:zoom="2"
+   inkscape:cx="-86.5"
+   inkscape:cy="-5.75"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_x0020_1" />
+ <defs
+   id="defs17">
+  <style
+   type="text/css"
+   id="style2">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:0.00363653}
+    .fil2 {fill:black}
+    .fil4 {fill:white}
+    .fil0 {fill:gray}
+    .fil1 {fill:red}
+    .fil3 {fill:url(#id0)}
+   ]]>
+  </style>
+  <radialGradient
+   id="id0"
+   gradientUnits="userSpaceOnUse"
+   cx="0.565199"
+   cy="0.573107"
+   r="0.173093"
+   fx="0.565199"
+   fy="0.573107"
+   gradientTransform="translate(-0.01894031,-0.05050748)">
+   <stop
+   offset="0"
+   style="stop-color:white"
+   id="stop4" />
+   <stop
+   offset="0.129412"
+   style="stop-color:#E5E5E1"
+   id="stop6" />
+   <stop
+   offset="0.290196"
+   style="stop-color:#CCC8C8"
+   id="stop8" />
+   <stop
+   offset="0.439216"
+   style="stop-color:#B2B4B4"
+   id="stop10" />
+   <stop
+   offset="0.74902"
+   style="stop-color:#464D43"
+   id="stop12" />
+   <stop
+   offset="1"
+   style="stop-color:black"
+   id="stop14" />
+  </radialGradient>
+ </defs>
+ <g
+   id="Layer_x0020_1"
+   inkscape:label="Layer 1">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  
+  <rect
+   class="fil1"
+   x="0.0049093603"
+   y="-0.00099702575"
+   width="1.1881734"
+   height="1.1940798"
+   id="rect22"
+   style="stroke-width:1.06327" />
+  <polygon
+   class="fil2 str0"
+   points="0.147337,0.601903 0.601903,0.601903 0.601903,0.147337 0.632771,0.141324 0.664015,0.147337 0.664015,0.601903 1.11859,0.601903 1.12312,0.6331 1.11859,0.664015 0.664015,0.664015 0.664015,1.11859 0.63447,1.12396 0.601903,1.11859 0.601903,0.664015 0.147337,0.664015 0.140173,0.633171 "
+   id="polygon24"
+   transform="translate(-0.01894031,-0.05050748)" />
+  <circle
+   class="fil2 str0"
+   cx="0.3696427"
+   cy="0.3348065"
+   r="0.049251899"
+   id="circle26" />
+  <polygon
+   class="fil2 str0"
+   points="0.293514,0.931596 0.592153,0.632961 0.293514,0.334327 0.310627,0.308566 0.334322,0.293519 0.632957,0.592153 0.931596,0.293514 0.957405,0.308862 0.972404,0.334322 0.673765,0.632961 0.972404,0.931601 0.958388,0.958168 0.931596,0.972409 0.632957,0.67377 0.334322,0.972404 0.307678,0.957262 "
+   id="polygon28"
+   transform="translate(-0.01894031,-0.05050748)" />
+  <circle
+   class="fil2 str0"
+   cx="0.61658072"
+   cy="0.23715954"
+   r="0.049251899"
+   id="circle30" />
+  <circle
+   class="fil3"
+   cx="0.61402071"
+   cy="0.5768075"
+   r="0.338808"
+   id="circle32"
+   style="fill:url(#id0)" />
+  <circle
+   class="fil2 str0"
+   cx="0.84882271"
+   cy="0.34800151"
+   r="0.049251899"
+   id="circle34" />
+  <circle
+   class="fil2 str0"
+   cx="0.37755969"
+   cy="0.8171615"
+   r="0.049251899"
+   id="circle36" />
+  <circle
+   class="fil2 str0"
+   cx="0.84882271"
+   cy="0.8171615"
+   r="0.049251899"
+   id="circle38" />
+  <circle
+   class="fil4"
+   cx="0.55436671"
+   cy="0.5337615"
+   r="0.045666602"
+   id="circle40" />
+ </g>
+</svg>

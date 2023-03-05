@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Minesweeper</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css" type="text/css">
+  <link rel="stylesheet" href="css/header.css" type="text/css">
+  <link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/segment7" type="text/css"/>
+</head>
+
+<body>
+  <header class="header">
+    <h1 class="title">Minesweeper</h1>
+    <div class="dropdown">
+      <div class="dropbtn-container">
+        <button class="dropbtn">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-list"
+            viewBox="0 0 16 16">
+            <path fill-rule="evenodd"
+              d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z" />
+          </svg>
+        </button>
+      </div>
+      <div class="dropdown-content">
+        <h2 class="h2 rules">Rules</h2>
+        <div class="rules-container">
+          <p class="p rules-text">The board size is 16x16. It contains <span class="mine-count"></span> mines <img
+              class="mine-img" src="/images/mine.svg" alt="mine">.</p>
+          <p class="p rules-text">To win a round of Minesweeper 😎, you must click on the board every square that doesn't have a mine under it otherwise the game will be over 😵.</p>
+          <p class="p rules-text">The number on a square shows the number of mines adjacent to it.</p>
+          <p class="p rules-text">Put a flag <img class="flag-img" src="/images/flag.svg" alt="flag"> in a zone when you have confirmed that there is a mine using the right mouse button. In case there is not a mine you will see <img
+              class="not-mine-img" src="/images/notMine.svg" alt="crossed mine"> at the end of the game.</p>
+          <p class="p rules-text">Put a question mark <b>?</b> when you suspect that there is a mine using the right mouse button.</p>
+          <p class="p rules-text">Click the smiley face 🙂 if you want to reset the game.</p>
+          <p class="p rules-text">Please remember that you 40 minuts ⏰. It starts the second you click on the board.</p>
+          <p class="p rules-text">Good luck!</p>
+        </div>
+      </div>
+    </div>
+  </header>
+  <div class="container">
+    <div class="game-container">
+      <div class="game-header">
+        <div id="time-passed" class="game-timer">040</div>
+        <button id="newGameButton" class="game-button emoji-button"></button>
+        <div class="game-stopwatch">000</div>
+      </div>
+      <div class="field"></div>
+    </div>
+  </div>
+  <script src="scripts/main.js"></script>
+</body>
+
+</html>

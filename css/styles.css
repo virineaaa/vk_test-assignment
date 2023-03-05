@@ -1,0 +1,218 @@
+body {
+  background: #ffff;
+  margin: 0;
+  white-space: nowrap;
+}
+
+body * {
+  box-sizing: border-box;
+}
+
+.container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 5px;
+}
+
+.game-container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  margin: 0px;
+  width: 436px;
+  height: 502px;
+  background-color: #bebebe;
+  outline: 3px outset #f0f0f0;
+}
+
+/* game header, stopwatch, timer */
+.game-header {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+  width: 412px;
+  height: 54px;
+  border: 3px inset #f0f0f0;
+  justify-content: space-between;
+}
+
+.game-stopwatch {
+  position: relative;
+  background-image: url('/images/backgroundDigits.png');
+  background-size: cover;
+  margin: 6px 10px;
+  width: 62px;
+  height: 34px;
+  background-color: black;
+  font-family: 'Segment7Standard', sans-serif;
+  font-weight: normal;
+  font-style: italic;
+  color: #ff0000;
+  text-align: center;
+  font-size: 32px;
+  padding: 2px;
+}
+
+.game-stopwatch-special {
+  background-image: url('/images/backgroundDigitsSpecial.png');
+  background-size: cover;
+  letter-spacing: -2px;
+  padding: 4px 4px 0px 0px;
+  font-size: 30px;
+  width: 65px;
+}
+
+button {
+  cursor: pointer;
+  position: relative;
+  border-color: transparent;
+  background-color: #bebebe;
+}
+
+.game-button {
+  margin: 5px 10px;
+  width: 40px;
+  height: 40px;
+  border: 3px outset #f0f0f0;
+}
+
+.emoji-button {
+  padding: 0px;
+  font-size: 25px;
+  text-align: center;
+}
+
+.emoji-button:hover {
+  transform: translate(-4%, -4%);
+}
+
+.game-button:hover {
+  border: 3px inset #f0f0f0;
+}
+
+.game-timer {
+  position: relative;
+  background-image: url('/images/backgroundDigits.png');
+  background-size: cover;
+  margin: 6px 10px;
+  width: 62px;
+  height: 34px;
+  background-color: black;
+  font-family: 'Segment7Standard', sans-serif;
+  font-weight: normal;
+  font-style: italic;
+  color: red;
+  text-align: center;
+  font-size: 34px;
+  padding: 2px;
+}
+
+/* the game field */
+.field {
+  position: relative;
+  display: flex;
+  margin: 4px 12px 12px 12px;
+  width: 412px;
+  height: 412px;
+  border: 3px inset #f0f0f0;
+}
+
+.column {
+  cursor: pointer;
+  position: relative;
+  width: 25.4px;
+}
+
+.cell {
+  position: relative;
+  font-family: 'VT323', monospace, sans-serif;
+  height: 25.4px;
+  width: 25.4px;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+  color: black;
+  border: 3px outset #f0f0f0;
+  justify-content: center;
+}
+
+.cell-opened {
+  position: relative;
+  height: 25.4px;
+  width: 25.4px;
+  font-size: 25px;
+  font-weight: 600;
+  padding: 0px;
+  text-align: center;
+  cursor: default;
+  background-color: #bebebe;
+  border: 0.5px solid #818181;
+}
+
+.cell-closed {
+  cursor: pointer;
+}
+
+.cell-closed:hover {
+  cursor: pointer;
+  background-color: #b2b2b2;
+}
+
+.cell-flagged {
+  background-image: url('/images/flag.svg');
+  background-size: 20px 20px;
+}
+
+.cell-question-mark {
+  background-image: url('/images/questionMark.svg');
+  background-size: contain;
+}
+
+.cell-mine {
+  background-image: url('/images/mine.svg');
+  background-size: 25px 25px;
+}
+
+.cell-mine-red {
+  background-color: #ff0000;
+}
+
+.cell-not-mine {
+  background-image: url('/images/notMine.svg');
+  background-size: 25px 25px;
+}
+
+.cell-1 {
+  color: #0000ff;
+}
+
+.cell-2 {
+  color: #008100
+}
+
+.cell-3 {
+  color: #ff0000;
+}
+
+.cell-4 {
+  color: #000081;
+}
+
+.cell-5 {
+  color: #810000;
+}
+
+.cell-6 {
+  color: #008181;
+}
+
+.cell-7 {
+  color: #000000;
+}
+
+.cell-8 {
+  color: #818181;
+}

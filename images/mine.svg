@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xml:space="preserve"
+   width="25mm"
+   height="25mm"
+   style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+   viewBox="0 0 1.06553 1.06553"
+   version="1.1"
+   id="svg43"
+   sodipodi:docname="mine.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   id="namedview45"
+   pagecolor="#505050"
+   bordercolor="#eeeeee"
+   borderopacity="1"
+   inkscape:pageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="0"
+   inkscape:document-units="mm"
+   showgrid="false"
+   inkscape:zoom="4.2756667"
+   inkscape:cx="2.3388165"
+   inkscape:cy="17.541124"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_x0020_1" />
+ <defs
+   id="defs17">
+  <style
+   type="text/css"
+   id="style2">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:0.00324773}
+    .fil2 {fill:black}
+    .fil4 {fill:white}
+    .fil0 {fill:gray}
+    .fil1 {fill:#c6c6c6}
+    .fil3 {fill:url(#id0)}
+   ]]>
+  </style>
+  <radialGradient
+   id="id0"
+   gradientUnits="userSpaceOnUse"
+   cx="0.504771"
+   cy="0.511833"
+   r="0.154587"
+   fx="0.504771"
+   fy="0.511833"
+   gradientTransform="matrix(1.1332766,0,0,1.0882507,-0.10880896,-0.08744512)">
+   <stop
+   offset="0"
+   style="stop-color:white"
+   id="stop4" />
+   <stop
+   offset="0.129412"
+   style="stop-color:#E5E5E1"
+   id="stop6" />
+   <stop
+   offset="0.290196"
+   style="stop-color:#CCC8C8"
+   id="stop8" />
+   <stop
+   offset="0.439216"
+   style="stop-color:#B2B4B4"
+   id="stop10" />
+   <stop
+   offset="0.74902"
+   style="stop-color:#464D43"
+   id="stop12" />
+   <stop
+   offset="1"
+   style="stop-color:black"
+   id="stop14" />
+  </radialGradient>
+ </defs>
+ <g
+   id="Layer_x0020_1"
+   inkscape:label="Layer 1">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  
+  
+  <polygon
+   class="fil2 str0"
+   points="0.566636,1.00379 0.537551,0.998993 0.537551,0.593022 0.131584,0.593022 0.125187,0.565476 0.131584,0.537551 0.537551,0.537551 0.537551,0.131584 0.565118,0.126214 0.593022,0.131584 0.593022,0.537551 0.998993,0.537551 1.00304,0.565412 0.998993,0.593022 0.593022,0.593022 0.593022,0.998993 "
+   id="polygon24"
+   transform="matrix(1.1332767,0,0,1.0882505,-0.10880899,-0.08744514)" />
+  <ellipse
+   class="fil2 str0"
+   cx="0.28448108"
+   cy="0.28704143"
+   id="circle26"
+   rx="0.049848422"
+   ry="0.047867894" />
+  <polygon
+   class="fil2 str0"
+   points="0.855923,0.855726 0.831995,0.868445 0.565285,0.601734 0.298578,0.86844 0.274783,0.854917 0.262133,0.831995 0.528843,0.565289 0.262133,0.298583 0.277417,0.275576 0.298578,0.262137 0.565285,0.528843 0.831995,0.262133 0.855045,0.27584 0.86844,0.298578 0.60173,0.565289 0.86844,0.831999 "
+   id="polygon28"
+   transform="matrix(1.1332767,0,0,1.0882505,-0.10880899,-0.08744514)" />
+  <ellipse
+   class="fil2 str0"
+   cx="0.53441054"
+   cy="0.1921384"
+   id="circle30"
+   rx="0.049848422"
+   ry="0.047867894" />
+  <ellipse
+   class="fil3"
+   cx="0.53181982"
+   cy="0.5222429"
+   id="circle32"
+   style="fill:url(#id0);stroke-width:1.11053"
+   rx="0.34291255"
+   ry="0.3292883" />
+  <ellipse
+   class="fil2 str0"
+   cx="0.76946568"
+   cy="0.29986647"
+   id="circle34"
+   rx="0.049848422"
+   ry="0.047867894" />
+  <ellipse
+   class="fil2 str0"
+   cx="0.29249448"
+   cy="0.75584346"
+   id="circle36"
+   rx="0.049848422"
+   ry="0.047867894" />
+  <ellipse
+   class="fil2 str0"
+   cx="0.76946568"
+   cy="0.75584346"
+   id="circle38"
+   rx="0.049848422"
+   ry="0.047867894" />
+  <ellipse
+   class="fil4"
+   cx="0.47144228"
+   cy="0.48040614"
+   id="circle40"
+   rx="0.046219781"
+   ry="0.044383422"
+   style="stroke-width:1.11053" />
+ </g>
+</svg>
