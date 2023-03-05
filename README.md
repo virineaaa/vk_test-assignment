@@ -21,12 +21,12 @@
   
    Перейти можно по ссылке https://virineaaa.github.io/vk_test-assignment/
   
-      ![сапер](https://user-images.githubusercontent.com/91919898/222963732-0a527545-c487-4e1f-9510-1130cd31671a.png)
+   ![сапер](https://user-images.githubusercontent.com/91919898/222963732-0a527545-c487-4e1f-9510-1130cd31671a.png)
 
     
    В правом верхнем углу при наведение на иконку открываются правила.
   
-      ![сапер2](https://user-images.githubusercontent.com/91919898/222963744-fc8ba20d-5806-4727-81fb-1ad6d8029a09.png)
+   ![сапер2](https://user-images.githubusercontent.com/91919898/222963744-fc8ba20d-5806-4727-81fb-1ad6d8029a09.png)
 
 
 
