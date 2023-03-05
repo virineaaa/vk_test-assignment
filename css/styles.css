@@ -41,7 +41,7 @@ body * {
 
 .game-stopwatch {
   position: relative;
-  background-image: url('/images/backgroundDigits.png');
+  background-image: url('../images/backgroundDigits.png');
   background-size: cover;
   margin: 6px 10px;
   width: 62px;
@@ -57,7 +57,7 @@ body * {
 }
 
 .game-stopwatch-special {
-  background-image: url('/images/backgroundDigitsSpecial.png');
+  background-image: url('../images/backgroundDigitsSpecial.png');
   background-size: cover;
   letter-spacing: -2px;
   padding: 4px 4px 0px 0px;
@@ -95,7 +95,7 @@ button {
 
 .game-timer {
   position: relative;
-  background-image: url('/images/backgroundDigits.png');
+  background-image: url('../images/backgroundDigits.png');
   background-size: cover;
   margin: 6px 10px;
   width: 62px;
@@ -162,17 +162,17 @@ button {
 }
 
 .cell-flagged {
-  background-image: url('/images/flag.svg');
+  background-image: url('../images/flag.svg');
   background-size: 20px 20px;
 }
 
 .cell-question-mark {
-  background-image: url('/images/questionMark.svg');
+  background-image: url('../images/questionMark.svg');
   background-size: contain;
 }
 
 .cell-mine {
-  background-image: url('/images/mine.svg');
+  background-image: url('../images/mine.svg');
   background-size: 25px 25px;
 }
 
@@ -181,7 +181,7 @@ button {
 }
 
 .cell-not-mine {
-  background-image: url('/images/notMine.svg');
+  background-image: url('../images/notMine.svg');
   background-size: 25px 25px;
 }
 
